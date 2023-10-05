@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Cooperativa de Software
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Plataforma Gamificada de Ensino de Tecnologia - Hack For Change
 
-## Available Scripts
+## Descrição
 
-In the project directory, you can run:
+Este projeto foi desenvolvido para o Hackathon "Hack For Change" de FIAP+Alura e Associação Passos Mágicos. É uma plataforma gamificada de ensino de tecnologia que visa proporcionar uma experiência de aprendizado envolvente e divertida para os alunos, incentivando o interesse e o progresso em habilidades tecnológicas.
 
-### `npm start`
+## Funcionalidades Principais
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Cursos Gamificados**: Oferece uma variedade de cursos gamificados em diferentes áreas da tecnologia.
+- **Desafios e Recompensas**: Os alunos podem completar desafios e ganhar recompensas à medida que progridem nos cursos.
+- **Acompanhamento de Progresso**: Permite que os alunos acompanhem seu progresso e vejam seu desempenho.
+- **Comunidade**: Inclui uma comunidade onde os alunos podem se conectar, compartilhar conhecimentos e colaborar em projetos.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Capturas de Tela
 
-### `npm test`
+(Inclua algumas capturas de tela do seu projeto, se aplicável. Você pode adicionar uma seção de capturas de tela para mostrar a interface do usuário e as funcionalidades principais.)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologias Utilizadas
 
-### `npm run build`
+- React.js
+- Node.js
+- MongoDB
+- Outras tecnologias específicas que você tenha usado
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Instalação
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone o repositório do GitHub para sua máquina local.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/seu-usuario/cooperativa-de-software.git
+```
 
-### `npm run eject`
+2. Navegue até o diretório do projeto.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+cd cooperativa-de-software
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Instale as dependências.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Execute o aplicativo.
 
-## Learn More
+```bash
+npm start
+```
+obs.: certifique-se de que foi instalado o react-router-dom
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-### Code Splitting
+Todas as imagens foram geradas pelo grupo para esse fim, não cabendo lincença de uso.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Agradecimentos
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Agradecemos à FIAP, Alura e Associação Passos Mágicos por promoverem o Hackathon "Hack For Change" e proporcionarem a oportunidade de desenvolver esta plataforma gamificada de ensino de tecnologia.

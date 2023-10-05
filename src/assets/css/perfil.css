@@ -1,0 +1,8 @@
+.div-perfil{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.443);
+    width: 1600px;
+    height: 1168px; 
+    display: flex;
+}
